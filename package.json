@@ -1,6 +1,6 @@
 {
   "name": "kerplunk-twitter-characteristic",
-  "displayName": "Twitter characteristics",
+  "displayName": "Twitter Characteristics",
   "description": "Take aspects of tweets and turn them into Characteristics",
   "version": "0.0.1",
   "kerplunk": {
