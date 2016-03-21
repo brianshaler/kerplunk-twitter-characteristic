@@ -2,7 +2,7 @@
   "name": "kerplunk-twitter-characteristic",
   "displayName": "Twitter Characteristics",
   "description": "Take aspects of tweets and turn them into Characteristics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "dependencies": [
       "kerplunk-twitter"
